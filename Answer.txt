@@ -1,0 +1,12 @@
+## Bing
+Se você está planejando criar uma API para cartas de Yu-Gi-Oh!, aqui estão algumas características que você pode considerar incluir para cada carta:
+- Nome da Carta: O nome oficial da carta.
+- Tipo da Carta: Por exemplo, Monstro, Magia, ou Armadilha.
+- Atributo: Todos os Monstros de Yu-Gi-Oh! possuem um atributo que pode variar entre: Água, Ar, Terra, Fogo, Luz ou Trevas.
+- Tipo de Monstro: Todo Monstro possui um tipo, como Mago, Dinossauro, entre outros.
+- Arquétipos: Refletem no nome da carta e funcionam como grupos unidos por efeitos e até histórias subjetivas.
+- Nível/Rank: Para monstros, o nível da carta pode ser importante.
+- Efeito: A descrição do efeito da carta.
+- Ataque/Defesa: Para cartas de monstros, os pontos de ataque e defesa.
+- Imagem da Carta: Uma imagem da carta pode ser útil para os usuários.
+Lembre-se de que a documentação é uma parte crucial de qualquer API. Certifique-se de documentar claramente cada endpoint e como ele deve ser usado. Boa sorte com o seu projeto! 😊
